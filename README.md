@@ -1,3 +1,5 @@
 --Number guessing game--
 
-This is a game about guessing if the next number will be higher or lower than the current.
+How it works:
+
+A random number will be given, you have to guess whether the next number will be either higher or lower.
